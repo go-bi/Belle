@@ -3755,7 +3755,7 @@ Sensitive	区分大小写字母
 Separator for position ([0-9]+)	位置$1分隔符
 September	9月
 Sequencer	排序器
-Sequencer settings	定序器设置
+Sequencer settings	排序器设置
 Sequencer:	排序
 Sequential	连续
 Serialized object in HTTP message(\s+\[[0-9]+\])?	HTTP消息中的序列化对象$1
